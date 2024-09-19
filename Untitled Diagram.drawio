@@ -10,13 +10,13 @@
         <mxCell id="xcm59Lb5H8kBxrCObnTR-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xcm59Lb5H8kBxrCObnTR-1" target="xcm59Lb5H8kBxrCObnTR-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xcm59Lb5H8kBxrCObnTR-1" value="Page loads" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xcm59Lb5H8kBxrCObnTR-1" value="Page loads" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-280" y="100" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xcm59Lb5H8kBxrCObnTR-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xcm59Lb5H8kBxrCObnTR-2" target="xcm59Lb5H8kBxrCObnTR-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xcm59Lb5H8kBxrCObnTR-2" value="Get current location" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xcm59Lb5H8kBxrCObnTR-2" value="Get current location" style="whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
           <mxGeometry x="-120" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xcm59Lb5H8kBxrCObnTR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="xcm59Lb5H8kBxrCObnTR-4" target="xcm59Lb5H8kBxrCObnTR-6">
@@ -27,13 +27,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xcm59Lb5H8kBxrCObnTR-4" value="Display map on current location" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="xcm59Lb5H8kBxrCObnTR-4" value="Display map on current location" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="50" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xcm59Lb5H8kBxrCObnTR-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xcm59Lb5H8kBxrCObnTR-6" target="xcm59Lb5H8kBxrCObnTR-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xcm59Lb5H8kBxrCObnTR-6" value="User clicks on a specific point on the map" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xcm59Lb5H8kBxrCObnTR-6" value="User clicks on a specific point on the map" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="240" y="100" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xcm59Lb5H8kBxrCObnTR-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="xcm59Lb5H8kBxrCObnTR-8" target="xcm59Lb5H8kBxrCObnTR-10">
@@ -44,7 +44,7 @@
             <mxPoint x="-2" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xcm59Lb5H8kBxrCObnTR-8" value="Display workout&amp;nbsp;&lt;div&gt;form&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="xcm59Lb5H8kBxrCObnTR-8" value="Display workout&amp;nbsp;&lt;div&gt;form&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="390" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xcm59Lb5H8kBxrCObnTR-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xcm59Lb5H8kBxrCObnTR-10" target="xcm59Lb5H8kBxrCObnTR-14">
@@ -53,7 +53,7 @@
         <mxCell id="xcm59Lb5H8kBxrCObnTR-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xcm59Lb5H8kBxrCObnTR-10" target="xcm59Lb5H8kBxrCObnTR-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xcm59Lb5H8kBxrCObnTR-10" value="User submits the form" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xcm59Lb5H8kBxrCObnTR-10" value="User submits the form" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="390" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xcm59Lb5H8kBxrCObnTR-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="xcm59Lb5H8kBxrCObnTR-14" target="xcm59Lb5H8kBxrCObnTR-16">
@@ -64,16 +64,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xcm59Lb5H8kBxrCObnTR-14" value="Display workout on list" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="xcm59Lb5H8kBxrCObnTR-14" value="Display workout on list" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="240" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xcm59Lb5H8kBxrCObnTR-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xcm59Lb5H8kBxrCObnTR-16" target="xcm59Lb5H8kBxrCObnTR-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xcm59Lb5H8kBxrCObnTR-16" value="User clicks on workout list" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xcm59Lb5H8kBxrCObnTR-16" value="User clicks on workout list" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="40" y="230" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xcm59Lb5H8kBxrCObnTR-19" value="Focus on the workout location on the map" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="xcm59Lb5H8kBxrCObnTR-19" value="Focus on the workout location on the map" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-110" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xcm59Lb5H8kBxrCObnTR-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="xcm59Lb5H8kBxrCObnTR-23" target="xcm59Lb5H8kBxrCObnTR-10">
@@ -87,10 +87,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xcm59Lb5H8kBxrCObnTR-23" value="Display workout on map" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="xcm59Lb5H8kBxrCObnTR-23" value="Display workout on map" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="220" y="341" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xcm59Lb5H8kBxrCObnTR-26" value="Store workout on local storage" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xcm59Lb5H8kBxrCObnTR-26" value="Store workout on local storage" style="whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
           <mxGeometry x="390" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xcm59Lb5H8kBxrCObnTR-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xcm59Lb5H8kBxrCObnTR-28" target="xcm59Lb5H8kBxrCObnTR-23">
@@ -106,13 +106,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xcm59Lb5H8kBxrCObnTR-28" value="Load workout from local storage" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xcm59Lb5H8kBxrCObnTR-28" value="Load workout from local storage" style="whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
           <mxGeometry x="-280" y="341" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xcm59Lb5H8kBxrCObnTR-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xcm59Lb5H8kBxrCObnTR-33" target="xcm59Lb5H8kBxrCObnTR-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xcm59Lb5H8kBxrCObnTR-33" value="User clicks on workout on map" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xcm59Lb5H8kBxrCObnTR-33" value="User clicks on workout on map" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="220" y="450" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xcm59Lb5H8kBxrCObnTR-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xcm59Lb5H8kBxrCObnTR-36" target="xcm59Lb5H8kBxrCObnTR-38">
@@ -131,16 +131,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xcm59Lb5H8kBxrCObnTR-36" value="Is label shown?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xcm59Lb5H8kBxrCObnTR-36" value="Is label shown?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="100" y="450" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xcm59Lb5H8kBxrCObnTR-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="xcm59Lb5H8kBxrCObnTR-38" target="xcm59Lb5H8kBxrCObnTR-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xcm59Lb5H8kBxrCObnTR-38" value="Display label" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="xcm59Lb5H8kBxrCObnTR-38" value="Display label" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-60" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xcm59Lb5H8kBxrCObnTR-44" value="Hide label" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="xcm59Lb5H8kBxrCObnTR-44" value="Hide label" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-80" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xcm59Lb5H8kBxrCObnTR-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xcm59Lb5H8kBxrCObnTR-48" target="xcm59Lb5H8kBxrCObnTR-44">
@@ -151,7 +151,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xcm59Lb5H8kBxrCObnTR-48" value="User clicks on close icon" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xcm59Lb5H8kBxrCObnTR-48" value="User clicks on close icon" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-260" y="440" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
